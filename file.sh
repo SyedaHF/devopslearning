@@ -2,4 +2,4 @@
 
 while read line; do
 echo "processing line: $line"
-done < datafile.sh
+done < datafile.g
