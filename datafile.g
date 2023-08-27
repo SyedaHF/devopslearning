@@ -5,8 +5,3 @@ jeudi
 vanderdi
 Samdi
 Dimanch
-1234
-0987
-12345678
-098765
-erterty
